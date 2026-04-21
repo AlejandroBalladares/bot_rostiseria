@@ -1,0 +1,2 @@
+class RegistrarClienteError < StandardError
+end

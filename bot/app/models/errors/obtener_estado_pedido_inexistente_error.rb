@@ -1,0 +1,2 @@
+class ObtenerEstadoPedidoInexistenteError < StandardError
+end

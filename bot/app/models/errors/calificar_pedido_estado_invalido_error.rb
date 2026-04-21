@@ -1,0 +1,2 @@
+class CalificarPedidoEstadoInvalidoError < StandardError
+end

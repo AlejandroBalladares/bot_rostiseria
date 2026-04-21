@@ -1,0 +1,2 @@
+class PedirMenuInexistenteError < StandardError
+end

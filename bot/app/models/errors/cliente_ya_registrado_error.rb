@@ -1,0 +1,2 @@
+class ClienteYaRegistradoError < StandardError
+end
