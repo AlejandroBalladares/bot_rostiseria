@@ -1,0 +1,2 @@
+class ClienteInvalidoError < StandardError
+end

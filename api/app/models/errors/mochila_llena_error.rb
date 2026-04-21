@@ -1,0 +1,2 @@
+class MochilaLlenaError < StandardError
+end

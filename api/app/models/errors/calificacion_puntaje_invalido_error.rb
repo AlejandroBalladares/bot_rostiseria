@@ -1,0 +1,2 @@
+class CalificacionPuntajeInvalidoError < StandardError
+end

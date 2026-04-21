@@ -1,0 +1,2 @@
+class RepartidorNoDisponibleError < StandardError
+end
