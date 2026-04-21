@@ -1,0 +1,10 @@
+POST http://localhost:3000/clientes
+Content-Type: application/json
+
+{
+  "nombre": "Pepe",
+  "direccion": "Calle Falsa 122",
+  "telefono": "1133223322",
+  "id_telegram": 12345
+}
+

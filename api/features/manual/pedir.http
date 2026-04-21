@@ -1,0 +1,16 @@
+PUT http://localhost:3000/clima
+Content-Type: application/json
+
+{
+  "habilitar": true,
+  "lluvia": true
+}
+
+###
+
+GET http://localhost:3000/pedidos/7
+
+
+###
+
+PUT http://localhost:3000/pedidos/1/estados

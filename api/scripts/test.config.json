@@ -1,0 +1,9 @@
+{
+"LOG_LEVEL":"debug",
+"LOG_STREAM":"stdout",
+"ENABLE_RESET": "true",
+"HABILITAR_CLIMA_API_MOCK": "true",
+"RACK_ENV": "production",
+"CLIMA_API_URL": "https://api.openweathermap.org",
+"CLIMA_API_KEY": "ab9e0422c113553533a7879f2a1df13e"
+}

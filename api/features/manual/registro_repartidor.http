@@ -1,0 +1,8 @@
+POST http://localhost:3000/repartidores
+Content-Type: application/json
+
+{
+  "nombre": "Pepe",
+  "documento": 12345678
+}
+
